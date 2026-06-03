@@ -1,0 +1,71 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║           🩺 DIABETES PREDICTION USING DATA MINING                         ║
+║                      Project ID: EDUFYPML007                                 ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  👨‍💻 Developed By: EduPhonix-Solution                                        ║
+║  🐙 GitHub: https://github.com/issu321                                       ║
+║  📁 Repository: https://github.com/issu321/Diabetes-Prediction-Using-Data-Mining ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📦 PROJECT CONTENTS:
+──────────────────────────────────────────────────────────────────────────────
+
+🐍 Python Files:
+   • app.py              - Streamlit web application (frontend)
+   • train_model.py      - Model training script (backend)
+
+📋 Documentation:
+   • README.md           - Full project documentation
+   • inputguide.md       - Detailed input parameter guide
+
+⚙️ Configuration:
+   • requirements.txt    - Python dependencies list
+   • .gitignore          - Git ignore rules
+
+🚀 Installation Scripts:
+   • install.sh          - Linux/macOS automated installer
+   • install.bat         - Windows automated installer
+   • start.sh            - Linux/macOS app launcher
+   • start.bat           - Windows app launcher
+
+📊 Data & Models:
+   • data/diabetes.csv   - Dataset (768 samples, 8 features)
+   • models/*.pkl        - 7 trained ML models
+   • models/scaler.pkl   - Feature scaler
+   • models/*.json       - Model metadata & results
+
+🤖 MACHINE LEARNING MODELS:
+──────────────────────────────────────────────────────────────────────────────
+   ✅ Logistic Regression
+   ✅ Random Forest
+   ✅ Support Vector Machine
+   ✅ K-Nearest Neighbors
+   ✅ Decision Tree
+   ✅ Gradient Boosting
+   ✅ Naive Bayes
+
+🎯 FEATURES:
+──────────────────────────────────────────────────────────────────────────────
+   • Interactive Streamlit web interface
+   • Single model or ensemble predictions
+   • Real-time risk gauge visualization
+   • Model comparison dashboard
+   • Data analysis with Plotly charts
+   • Input parameter guide
+   • Health recommendations
+   • Quick profile presets
+
+🚀 QUICK START:
+──────────────────────────────────────────────────────────────────────────────
+   Linux/macOS:  ./install.sh  &&  ./start.sh
+   Windows:      install.bat   &&  start.bat
+
+   Manual:       pip install -r requirements.txt
+                 python train_model.py
+                 streamlit run app.py
+
+📱 Access the app at: http://localhost:8501
+
+⚠️  DISCLAIMER: This application is for educational purposes only.
+    Not a substitute for professional medical advice.

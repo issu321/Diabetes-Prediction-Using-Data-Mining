@@ -1,0 +1,65 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.7208,
+        "Precision": 0.641,
+        "Recall": 0.463,
+        "F1-Score": 0.5376,
+        "AUC-ROC": 0.7985,
+        "CV Mean": 0.7249,
+        "CV Std": 0.0366
+    },
+    "Random Forest": {
+        "Accuracy": 0.7273,
+        "Precision": 0.6875,
+        "Recall": 0.4074,
+        "F1-Score": 0.5116,
+        "AUC-ROC": 0.7524,
+        "CV Mean": 0.6841,
+        "CV Std": 0.0376
+    },
+    "Support Vector Machine": {
+        "Accuracy": 0.7208,
+        "Precision": 0.6774,
+        "Recall": 0.3889,
+        "F1-Score": 0.4941,
+        "AUC-ROC": 0.7328,
+        "CV Mean": 0.6743,
+        "CV Std": 0.0365
+    },
+    "K-Nearest Neighbors": {
+        "Accuracy": 0.6299,
+        "Precision": 0.4571,
+        "Recall": 0.2963,
+        "F1-Score": 0.3596,
+        "AUC-ROC": 0.6293,
+        "CV Mean": 0.6417,
+        "CV Std": 0.0517
+    },
+    "Decision Tree": {
+        "Accuracy": 0.5909,
+        "Precision": 0.4082,
+        "Recall": 0.3704,
+        "F1-Score": 0.3883,
+        "AUC-ROC": 0.4991,
+        "CV Mean": 0.6516,
+        "CV Std": 0.046
+    },
+    "Gradient Boosting": {
+        "Accuracy": 0.6948,
+        "Precision": 0.6,
+        "Recall": 0.3889,
+        "F1-Score": 0.4719,
+        "AUC-ROC": 0.7822,
+        "CV Mean": 0.6939,
+        "CV Std": 0.0368
+    },
+    "Naive Bayes": {
+        "Accuracy": 0.7208,
+        "Precision": 0.6486,
+        "Recall": 0.4444,
+        "F1-Score": 0.5275,
+        "AUC-ROC": 0.7887,
+        "CV Mean": 0.6874,
+        "CV Std": 0.0282
+    }
+}
